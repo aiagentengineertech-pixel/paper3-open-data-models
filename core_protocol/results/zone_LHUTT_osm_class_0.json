@@ -1,0 +1,32 @@
+{
+ "network": "LHUTT",
+ "start": "osm_class",
+ "layout": 0,
+ "C_global": 155,
+ "C_zones": [
+  60,
+  155,
+  60
+ ],
+ "zone": {
+  "head_rmse": 6.5937042236328125,
+  "p_rmse": 5.899643898010254,
+  "p_bias": -1.5013692378997803,
+  "deliv_true": 84.65546850618185,
+  "deliv_model": 86.62969536244431,
+  "short_true": 220,
+  "short_found": 183,
+  "false_alarms": 24
+ },
+ "global_same_layout": {
+  "head_rmse": 7.354784965515137,
+  "p_rmse": 6.714543342590332,
+  "p_bias": -1.2606730461120605,
+  "deliv_true": 84.65546850618185,
+  "deliv_model": 87.65817897365957,
+  "short_true": 220,
+  "short_found": 180,
+  "false_alarms": 42
+ },
+ "sims": 45
+}

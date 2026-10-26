@@ -1,0 +1,32 @@
+{
+ "network": "LTOWN",
+ "start": "all_guessed",
+ "layout": 2,
+ "C_global": 145,
+ "C_zones": [
+  145,
+  120,
+  220
+ ],
+ "zone": {
+  "head_rmse": 6.636501312255859,
+  "p_rmse": 6.924596786499023,
+  "p_bias": -5.549817085266113,
+  "deliv_true": 94.18396203694871,
+  "deliv_model": 83.18454015171464,
+  "short_true": 130,
+  "short_found": 130,
+  "false_alarms": 212
+ },
+ "global_same_layout": {
+  "head_rmse": 6.375094890594482,
+  "p_rmse": 6.790337085723877,
+  "p_bias": -4.122945308685303,
+  "deliv_true": 94.18396203694871,
+  "deliv_model": 85.73650528854613,
+  "short_true": 130,
+  "short_found": 129,
+  "false_alarms": 168
+ },
+ "sims": 53
+}

@@ -1,0 +1,32 @@
+{
+ "network": "KIT6",
+ "start": "osm_class",
+ "layout": 2,
+ "C_global": 230,
+ "C_zones": [
+  230,
+  230,
+  230
+ ],
+ "zone": {
+  "head_rmse": 49.35059356689453,
+  "p_rmse": 48.84870910644531,
+  "p_bias": -48.76439666748047,
+  "deliv_true": 100.00656622083206,
+  "deliv_model": 48.05361844012426,
+  "short_true": 0,
+  "short_found": 0,
+  "false_alarms": 505
+ },
+ "global_same_layout": {
+  "head_rmse": 49.35059356689453,
+  "p_rmse": 48.84870910644531,
+  "p_bias": -48.76439666748047,
+  "deliv_true": 100.00656622083206,
+  "deliv_model": 48.05361844012426,
+  "short_true": 0,
+  "short_found": 0,
+  "false_alarms": 505
+ },
+ "sims": 28
+}

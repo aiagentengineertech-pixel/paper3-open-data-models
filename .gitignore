@@ -1,0 +1,15 @@
+__pycache__/
+*.pkl
+*.pkl.part
+*.bin
+*.rpt
+*.hyd
+lowerhutt/models/
+lowerhutt/*.geojson
+lowerhutt/*.gpkg
+lowerhutt/*_graph.json
+lowerhutt/inputs/
+
+# EPANET scratch files
+en??????
+*.pyc

@@ -1,0 +1,32 @@
+{
+ "network": "CHCH",
+ "start": "all_guessed",
+ "layout": 3,
+ "C_global": 160,
+ "C_zones": [
+  180,
+  100,
+  180
+ ],
+ "zone": {
+  "head_rmse": 7.397696018218994,
+  "p_rmse": 7.681325912475586,
+  "p_bias": -0.31408682465553284,
+  "deliv_true": 85.19704976651919,
+  "deliv_model": 87.22475893596516,
+  "short_true": 64,
+  "short_found": 60,
+  "false_alarms": 6
+ },
+ "global_same_layout": {
+  "head_rmse": 7.378904819488525,
+  "p_rmse": 7.614201068878174,
+  "p_bias": -2.10050630569458,
+  "deliv_true": 85.19704976651919,
+  "deliv_model": 87.4538237397007,
+  "short_true": 64,
+  "short_found": 59,
+  "false_alarms": 10
+ },
+ "sims": 48
+}

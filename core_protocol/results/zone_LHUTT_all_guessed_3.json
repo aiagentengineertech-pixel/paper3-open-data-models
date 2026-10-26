@@ -1,0 +1,32 @@
+{
+ "network": "LHUTT",
+ "start": "all_guessed",
+ "layout": 3,
+ "C_global": 185,
+ "C_zones": [
+  220,
+  185,
+  180
+ ],
+ "zone": {
+  "head_rmse": 2.1481375694274902,
+  "p_rmse": 3.2357661724090576,
+  "p_bias": 0.7987741231918335,
+  "deliv_true": 84.65546850618185,
+  "deliv_model": 84.92415631233214,
+  "short_true": 221,
+  "short_found": 187,
+  "false_alarms": 23
+ },
+ "global_same_layout": {
+  "head_rmse": 2.4013874530792236,
+  "p_rmse": 3.4357500076293945,
+  "p_bias": 0.9529904127120972,
+  "deliv_true": 84.65546850618185,
+  "deliv_model": 84.67746989837623,
+  "short_true": 221,
+  "short_found": 186,
+  "false_alarms": 25
+ },
+ "sims": 45
+}

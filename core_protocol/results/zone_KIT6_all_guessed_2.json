@@ -1,0 +1,32 @@
+{
+ "network": "KIT6",
+ "start": "all_guessed",
+ "layout": 2,
+ "C_global": 145,
+ "C_zones": [
+  220,
+  120,
+  220
+ ],
+ "zone": {
+  "head_rmse": 0.15409278869628906,
+  "p_rmse": 2.3334243297576904,
+  "p_bias": 0.2848855257034302,
+  "deliv_true": 100.00656622083206,
+  "deliv_model": 100.00790299787869,
+  "short_true": 0,
+  "short_found": 0,
+  "false_alarms": 0
+ },
+ "global_same_layout": {
+  "head_rmse": 0.19161400198936462,
+  "p_rmse": 2.360856771469116,
+  "p_bias": 0.4734228551387787,
+  "deliv_true": 100.00656622083206,
+  "deliv_model": 100.00794566097592,
+  "short_true": 0,
+  "short_found": 0,
+  "false_alarms": 0
+ },
+ "sims": 52
+}

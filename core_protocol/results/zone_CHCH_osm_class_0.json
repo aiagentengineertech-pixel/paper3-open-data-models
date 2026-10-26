@@ -1,0 +1,32 @@
+{
+ "network": "CHCH",
+ "start": "osm_class",
+ "layout": 0,
+ "C_global": 150,
+ "C_zones": [
+  160,
+  60,
+  80
+ ],
+ "zone": {
+  "head_rmse": 9.873619079589844,
+  "p_rmse": 12.769329071044922,
+  "p_bias": -1.4599143266677856,
+  "deliv_true": 85.19704976651919,
+  "deliv_model": 85.43891243108034,
+  "short_true": 64,
+  "short_found": 54,
+  "false_alarms": 20
+ },
+ "global_same_layout": {
+  "head_rmse": 11.351262092590332,
+  "p_rmse": 13.366131782531738,
+  "p_bias": -1.3485966920852661,
+  "deliv_true": 85.19704976651919,
+  "deliv_model": 89.40651735719933,
+  "short_true": 64,
+  "short_found": 54,
+  "false_alarms": 20
+ },
+ "sims": 53
+}
